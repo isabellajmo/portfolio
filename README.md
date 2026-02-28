@@ -5,7 +5,7 @@ Welcome to my technical portfolio. I specialize in bridging high-level software 
 
 ## 🛠 Featured Projects
 
-### 🔳 [High-Throughput Matrix Multiplication Accelerator](matrix-multiplier.md)
+### 🔳 [High-Throughput Matrix Multiplication Accelerator](matrix-multiplier)
 **HDL/Architecture** | Optimized Verilog MAC units and Dual-Port RAM for 2x data throughput.
 
 ### 🎲 [FPGA-Based Dice Game Controller](dice-game.md)
