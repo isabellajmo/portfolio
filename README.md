@@ -66,6 +66,4 @@ This summer, I'm continuing my research in low-power digital design as a Nationa
 
 ## Let's Connect
 
-### Please contact me on LinkedIn to discuss any engineering internships, opportunities, or projects. I'm also happy to answer any questions!
-
-[LinkedIn](https://linkedin.com/in/isabella-mo/)
+Please contact me on [LinkedIn](https://linkedin.com/in/isabella-mo/) to discuss any engineering internships, opportunities, or projects. I'm also happy to answer any questions!
