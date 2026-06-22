@@ -1,9 +1,9 @@
 # Portfolio
-> **Hi, I'm Isabella Mo**
+Hi! I'm Isabella Mo
 
-**Electrical Engineering** at **UC Davis** with a concentration in **Mixed-Signal Systems**. 
+Electrical Engineering at UC Davis with a concentration in Mixed-Signal Systems. 
 
-This summer, I'm continuing my research in **low-power digital design** as a **National Science Foundation ExLENT Fellow** in the **UC Davis BE-STARSE Program**. Additionally, I'm working as a **Student Assistant** at the **UC Davis Center for Nano-Micro Manufacturing** (CNM2) to expand my knowledge of hardware design through maintaining cleanroom facilities and **advanced microfabrication processing machinery**.
+This summer, I'm continuing my research in low-power digital design as a National Science Foundation ExLENT Fellow in the UC Davis BE-STARSE Program. Additionally, I'm working as a Student Assistant at the UC Davis Center for Nano-Micro Manufacturing (CNM2) to expand my knowledge of hardware design through maintaining cleanroom facilities and advanced microfabrication processing machinery.
 
 ## Research Projects
 ### [Hardware-Efficient Digital Filter Design](digital-filter.md)
@@ -44,30 +44,25 @@ This summer, I'm continuing my research in **low-power digital design** as a **N
 
 ### National Science Foundation ExLENT Fellow
 #### BE-STARSE Program
-**March 2026 - Present**
-Conduct mixed-signal systems research aligned with national CHIPS and Science Act initiatives under the mentorship of Dr. Rajeevan Amirtharajah.
+**March 2026 - Present** | Conduct mixed-signal systems research aligned with national CHIPS and Science Act initiatives under the mentorship of Dr. Rajeevan Amirtharajah.
 
 ### Undergraduate Research Assistant
 #### Micropower Circuits & Systems Group
-**November 2025 - Present**
-Execute wind tunnel testing on 3D-printed airfoils using MEMS microphones, analyzing acoustic signals to map airflow transitions and designing sensor array architectures to optimize aerodynamic efficiency.
+**November 2025 - Present** | Execute wind tunnel testing on 3D-printed airfoils using MEMS microphones, analyzing acoustic signals to map airflow transitions and designing sensor array architectures to optimize aerodynamic efficiency.
 
 ## Extracurriculars
 
 ### Incoming Electrical Lead
 #### Cyclone RoboSub at UC Davis
-**May 2026 - Present**
-Lead electrical subteam task management for PCB design, manufacturing, verification, and system integration for internationally competitive autonomous underwater vehicles. Upgrade onboarding resources to include electrical project summaries, software setup guides, and introductory PCB design tutorials.
+**May 2026 - Present** | Lead electrical subteam task management for PCB design, manufacturing, verification, and system integration for internationally competitive autonomous underwater vehicles. Upgrade onboarding resources to include electrical project summaries, software setup guides, and introductory PCB design tutorials.
 
 ### Startup Coordinator
 #### IEEE Student Branch at UC Davis
-**March 2025 - Present**
-Host quarterly computer vision and vibe coding workshops with the UC Davis Student Startup Center for groups of 20-50 undergraduate and graduate students. Foster technical and business growth within the UC Davis College of Engineering by connecting participants to professors teaching student-led engineering entrepreneurship courses.
+**March 2025 - Present** | Host quarterly computer vision and vibe coding workshops with the UC Davis Student Startup Center for groups of 20-50 undergraduate and graduate students. Foster technical and business growth within the UC Davis College of Engineering by connecting participants to professors teaching student-led engineering entrepreneurship courses.
 
 ### Electrical Subteam Member
 #### Formula Racing at UC Davis
-**October 2024 - August 2025**
-Assembled and validated automotive electrical systems, utilizing reflow soldering for Battery Management System Node Boards. Tested wiring harness durability in high-vibration environments.
+**October 2024 - August 2025** | Assembled and validated automotive electrical systems, utilizing reflow soldering for Battery Management System Node Boards. Tested wiring harness durability in high-vibration environments.
 
 ## Let's Connect
 
