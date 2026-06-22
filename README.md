@@ -1,5 +1,5 @@
 # Portfolio
-##Hi, my name is Isabella Mo!
+## Hi, my name is Isabella Mo!
 
 I'm studying Electrical Engineering at UC Davis with a concentration in Mixed-Signal Systems. 
 
