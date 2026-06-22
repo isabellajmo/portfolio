@@ -1,7 +1,7 @@
 # Portfolio
-Hi! I'm Isabella Mo
+##Hi, my name is Isabella Mo!
 
-Electrical Engineering at UC Davis with a concentration in Mixed-Signal Systems. 
+I'm studying Electrical Engineering at UC Davis with a concentration in Mixed-Signal Systems. 
 
 This summer, I'm continuing my research in low-power digital design as a National Science Foundation ExLENT Fellow in the UC Davis BE-STARSE Program. Additionally, I'm working as a Student Assistant at the UC Davis Center for Nano-Micro Manufacturing (CNM2) to expand my knowledge of hardware design through maintaining cleanroom facilities and advanced microfabrication processing machinery.
 
